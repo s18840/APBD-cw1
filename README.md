@@ -1,5 +1,5 @@
 # APBD-cw1
 
-Mikolaj Sroczynski
+Mikołaj Sroczyński
 25c
 s18840
